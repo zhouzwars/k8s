@@ -1,1 +1,1 @@
-FROM mirrorgooglecontainers/kube-apiserver-amd64:V1.15.2
+FROM mirrorgooglecontainers/kube-apiserver-amd64:v1.15.2
